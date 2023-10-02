@@ -23,4 +23,6 @@ Task 6 concatenate two strings and print them
 
 Task 7 Copy - Cut - Paste
 
+Task 8 Create a new sentence
+
 
