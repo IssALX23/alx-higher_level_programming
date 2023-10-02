@@ -18,3 +18,6 @@ Task 4 print the float stored in the variable number with a precision of 2 digit
 
 Task 5 print 3 times a string stored in the variable str
 	followed by its first 9 characters.
+
+Task 6 concatenate two strings and print them
+
