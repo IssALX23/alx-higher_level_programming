@@ -9,4 +9,7 @@ Task 1 Write a Shell script that runs Python code.
 
 Task 2 Write a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
 
+Task 3 print the integer stored in the variable number
+	You have to use f-strings tips
+
 
