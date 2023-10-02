@@ -12,4 +12,7 @@ Task 2 Write a Python script that prints exactly "Programming is like building a
 Task 3 print the integer stored in the variable number
 	You have to use f-strings tips
 
+Task 4 print the float stored in the variable number with a precision of 2 digits
+	You have to use f-strings
+
 
