@@ -21,3 +21,6 @@ Task 5 print 3 times a string stored in the variable str
 
 Task 6 concatenate two strings and print them
 
+Task 7 Copy - Cut - Paste
+
+
