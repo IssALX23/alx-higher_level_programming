@@ -16,4 +16,6 @@ Task 4 prints all numbers from 0 to 98 in decimal and in hexadecimal
 Task 5  prints numbers from 0 to 99
 	only use no more than 2 print functions with string format
 
+Task 6 prints all possible different combinations of two digits.
+
 
