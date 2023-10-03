@@ -20,4 +20,6 @@ Task 6 prints all possible different combinations of two digits.
 
 Task 7 checks for lowercase character
 
+Task 8 prints a string in uppercase followed by a new line
+
 
