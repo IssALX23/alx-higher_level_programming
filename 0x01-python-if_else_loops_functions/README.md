@@ -11,3 +11,6 @@ Task 2 prints the ASCII alphabet, in lowercase, not followed by a new line.
 Task 3 prints the ASCII alphabet, in lowercase, not followed by a new line.
 	 all the letters except q and e
 
+Task 4 prints all numbers from 0 to 98 in decimal and in hexadecimal
+
+
