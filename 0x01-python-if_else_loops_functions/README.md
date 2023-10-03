@@ -24,4 +24,6 @@ Task 8 prints a string in uppercase followed by a new line
 
 Task 9 prints the last digit of a number
 
+Task 10 adds two integers and returns the result
+
 
