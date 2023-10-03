@@ -26,4 +26,6 @@ Task 9 prints the last digit of a number
 
 Task 10 adds two integers and returns the result
 
+Task 11 computes a to the power of b and return the value
+
 
