@@ -13,4 +13,7 @@ Task 3 prints the ASCII alphabet, in lowercase, not followed by a new line.
 
 Task 4 prints all numbers from 0 to 98 in decimal and in hexadecimal
 
+Task 5  prints numbers from 0 to 99
+	only use no more than 2 print functions with string format
+
 
