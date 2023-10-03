@@ -18,4 +18,6 @@ Task 5  prints numbers from 0 to 99
 
 Task 6 prints all possible different combinations of two digits.
 
+Task 7 checks for lowercase character
+
 
