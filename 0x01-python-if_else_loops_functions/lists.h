@@ -3,5 +3,6 @@
 
 def islower(c):
 def uppercase(str):
+print_last_digit(number):
 
 #endif

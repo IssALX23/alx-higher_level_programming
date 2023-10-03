@@ -22,4 +22,6 @@ Task 7 checks for lowercase character
 
 Task 8 prints a string in uppercase followed by a new line
 
+Task 9 prints the last digit of a number
+
 
