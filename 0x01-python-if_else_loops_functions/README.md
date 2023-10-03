@@ -28,4 +28,4 @@ Task 10 adds two integers and returns the result
 
 Task 11 computes a to the power of b and return the value
 
-
+Task 12 prints the numbers from 1 to 100 separated by a space
