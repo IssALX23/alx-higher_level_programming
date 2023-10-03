@@ -25,4 +25,4 @@ Task 7 Copy - Cut - Paste
 
 Task 8 Create a new sentence
 
-
+Task 9 Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line
