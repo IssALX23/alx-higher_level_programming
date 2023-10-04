@@ -27,4 +27,6 @@ Task 8 Create a new sentence
 
 Task 9 Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line
 	
+Task 11 prints a sentence using write from sys module
+
 
