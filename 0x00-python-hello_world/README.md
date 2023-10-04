@@ -30,3 +30,5 @@ Task 9 Write a Python script that prints “The Zen of Python”, by TimPeters, 
 Task 11 prints a sentence using write from sys module
 
 Task 12 compiles a Python script file
+
+Task 13 function that does exactly the same as the following Python bytecode
