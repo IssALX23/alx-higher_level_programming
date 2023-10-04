@@ -31,3 +31,6 @@ Task 11 computes a to the power of b and return the value
 Task 12 prints the numbers from 1 to 100 separated by a space
 
 Task 14 prints the ASCII alphabet, in reverse order, Smile in the mirror
+
+Task 15 removing the character at the position n using the index
+
