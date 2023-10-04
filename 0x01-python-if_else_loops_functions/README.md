@@ -34,3 +34,4 @@ Task 14 prints the ASCII alphabet, in reverse order, Smile in the mirror
 
 Task 15 removing the character at the position n using the index
 
+Task 16 function that does exactly the same as the following Python bytecode
