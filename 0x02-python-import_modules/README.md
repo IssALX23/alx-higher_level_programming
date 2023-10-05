@@ -5,3 +5,7 @@ Python modules are files containing Python code that can define functions, varia
 Task 0 Write a program that imports a function from a file and prints the results
 
 Task 1 Write a imports functions from the file, and do some maths
+
+Task 2 Write a program that prints the number of and the list of its arguments
+
+
