@@ -8,4 +8,6 @@ Task 1 Write a imports functions from the file, and do some maths
 
 Task 2 Write a program that prints the number of and the list of its arguments
 
+Task 3 Write a program that prints the result of the addition of all arguments
+
 
