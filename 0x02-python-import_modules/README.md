@@ -18,4 +18,7 @@ Task 6 Write a program that imports all functions from the file calculator_1.py 
 
 Task 7 prints without using print or eval or open or import sys
 
+Task 9 Write a program that prints the alphabet in uppercase, followed by a new line.
+
+
 
