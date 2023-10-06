@@ -16,4 +16,6 @@ Task 5 imports a variable from a file, and prints its value
 
 Task 6 Write a program that imports all functions from the file calculator_1.py and handles basic operations.
 
+Task 7 prints without using print or eval or open or import sys
+
 
