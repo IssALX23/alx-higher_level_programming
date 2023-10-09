@@ -14,5 +14,7 @@ Task 4 Write a function that replaces an element in a list at a specific positio
 
 Task 5 Write a function that removes all characters c and C from a string.
 
+Task 6 Write a function that prints a matrix of integers.
+
 
 
