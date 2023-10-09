@@ -20,5 +20,7 @@ Task 7 Write a function that adds 2 tuples
 
 Task 8 Write a function that returns a tuple with the length of a string and its first character.
 
+Task 9 Write a function that finds the biggest integer of a list.
+
 
 
