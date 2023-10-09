@@ -6,4 +6,6 @@ Task 0 Write a function that prints all integers of a list.
 
 Task 1 access to an element in a list
 
+Task 2 Write a function that replaces an element of a list at a specific position (like in C).
+
 
