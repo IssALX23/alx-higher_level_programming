@@ -9,4 +9,3 @@ def delete_at(my_list=[], idx=0):
     x = my_list[idx]
     new_list.remove(x)
     return new_list
-
