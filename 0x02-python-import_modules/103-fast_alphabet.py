@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-__import__('sys').stdout.write("{}\n".format(''.join(chr(letter) for letter in range(ord('A'), ord('Z')+1))))
+from string import ascii_uppercase as letter; print(letter)
