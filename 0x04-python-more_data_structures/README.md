@@ -13,6 +13,8 @@ Task 4 Write a function that returns a set of all elements present in only one s
 
 Task 5 Write a function that returns the number of keys in a dictionary.
 
+Task 6 Write a function that prints a dictionary by ordered keys.
+
 
 
 
