@@ -23,6 +23,8 @@ Task 9 Write a function that returns a new dictionary with all values multiplied
 
 Task 10 Write a function that returns a key with the biggest integer value.
 
+Task 11 Write a function that returns a list with all values multiplied by a number without using any loops.
+
 
 
 
