@@ -14,5 +14,7 @@
 
 	Task 6 Write a function that raises a name exception with a message.
 
+	Task 7 Write a function that prints an integer.
+
 
 
