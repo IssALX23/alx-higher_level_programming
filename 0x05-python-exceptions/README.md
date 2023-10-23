@@ -8,5 +8,7 @@
 
 	Task 3 Write a function that divides 2 integers and prints the result.
 
+	Task 4 Write a function that divides element by element 2 lists.
+
 
 
