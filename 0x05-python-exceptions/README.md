@@ -12,5 +12,7 @@
 
 	Task 5 Write a function that raises a type exception.
 
+	Task 6 Write a function that raises a name exception with a message.
+
 
 
