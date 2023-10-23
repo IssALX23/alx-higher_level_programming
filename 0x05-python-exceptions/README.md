@@ -6,3 +6,7 @@
 
 	Task 2 Write a function that prints the first x elements of a list and only integers
 
+	Task 3 Write a function that divides 2 integers and prints the result.
+
+
+
