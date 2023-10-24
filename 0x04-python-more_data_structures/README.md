@@ -25,6 +25,8 @@ Task 10 Write a function that returns a key with the biggest integer value.
 
 Task 11 Write a function that returns a list with all values multiplied by a number without using any loops.
 
+Task 12 Create a function that converts a Roman numeral to an integer.
+
 
 
 
