@@ -6,3 +6,4 @@ def safe_print_integer_err(value):
         return True
     except (TypeError, ValueError) as msg:
         sys.stderr.write(f"Exception: {msg}\n")
+        return False
