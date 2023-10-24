@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+another needed comment
+"""
 
 
 class Square:
