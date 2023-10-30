@@ -12,3 +12,4 @@ Month 3 : Python here we go..
 	0x06-python-classes
 >>>>>>> 2048bbf5565eab0206965d50f6e58aaddd15dfd1
 
+	0x08-python-more_classes
