@@ -13,13 +13,13 @@ def text_indentation(text):
     Return:
         print new text
     """
-    # remove extra spaces from text
-    words = text.split()
-    text = ' '.join(words)
-
     # print text
     if not isinstance(text, str):
         raise TypeError("text must be a string")
+
+    # remove extra spaces from text
+    words = text.split()
+    text = ' '.join(words)
 
     new_text = ""
 
