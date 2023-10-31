@@ -53,14 +53,7 @@ class Rectangle:
             return rec_str
 
         for i in range(self.height):
-            rec_str += '#' * self.width + '\n'
+            for j in range(self.width):
+                rec_str += '#'
+            rec_str += '\n'
         return rec_str
-
-    def print(self):
-        rec_str = ''
-        if self.width == 0 or self.height == 0:
-            return
-
-        for i in range(self.height):
-            rec_str += '#' * self.width + '\n'
-        print(rec_str)
