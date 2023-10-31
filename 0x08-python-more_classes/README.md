@@ -35,6 +35,12 @@
 
 	Task 4 Eval is magic
 		Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py)
+
 	--repr() should return a string representation of the rectangle to be able to recreate a new instance by using eval()
+	
+	Task 5 Detect instance deletion
+		Write a class Rectangle that defines a rectangle by: (based on 4-rectangle.py)
+
+	--Print the message Bye rectangle... (... being 3 dots not ellipsis) when an instance of Rectangle is deleted
 
 
