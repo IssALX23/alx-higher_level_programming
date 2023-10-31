@@ -1,0 +1,11 @@
+The text_indentation function
+=============================
+
+Usuage text_indentation
+_______________________
+
+Import function:
+	>>> __import__('5-text_indentation').text_indentation
+
+Basic test:
+	>>>
