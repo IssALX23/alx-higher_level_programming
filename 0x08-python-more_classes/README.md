@@ -33,3 +33,8 @@
 	--print() and str() should print the rectangle with the character #: (see example below)
 	----if width or height is equal to 0, return an empty string
 
+	Task 4 Eval is magic
+		Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py)
+	--repr() should return a string representation of the rectangle to be able to recreate a new instance by using eval()
+
+
