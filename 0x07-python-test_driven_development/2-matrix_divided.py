@@ -16,8 +16,10 @@ def matrix_divided(matrix, div):
         a new matrix
     """
     # Checking if matrix is a list of lists
-    if not isinstance(matrix, list) or not all(
-            isinstance(row, list) for row in matrix):
+    if not isinstance(matrix, list):
+        raise TypeError(
+                "matrix must be a matrix (list of lists) of integers/floats")
+    if not all(isinstance(col, (int, float)) for row in matrix for col in row): 
         raise TypeError(
                 "matrix must be a matrix (list of lists) of integers/floats")
 
