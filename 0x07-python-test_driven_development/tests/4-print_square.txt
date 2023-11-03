@@ -18,7 +18,7 @@ Case no args:
         ...
         TypeError: print_square() missing 1 required positional argument: 'size'
 
-Case more thn one args:
+Case more than one args:
         >>> print_square(2, 4)
         Traceback (most recent call last):
         ...
@@ -32,3 +32,10 @@ Case size is negative:
 
 Case size == 0:
         >>> print_square(0)
+
+
+Case size is not integer:
+	>>> print_square("heeloo")
+	Traceback (most recent call last):
+	...
+	TypeError: size must be an integer
