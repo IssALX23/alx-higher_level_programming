@@ -27,3 +27,16 @@ Case a and b not int or float:
         ...
         TypeError: a must be an integer
 
+Case a and b is float:
+	>>> add_integer(1.2, 0.5)
+	1
+
+Case convert float NaN to integer:
+	>>> add_integer(5, float('nan'))
+	Traceback (most recent call last):
+	...
+	ValueError: cannot convert float NaN to integer
+
+Case Float overflow:
+	>>> add_integer(1, 9999999999999999999999999999999999999999999999999)
+	10000000000000000000000000000000000000000000000000
