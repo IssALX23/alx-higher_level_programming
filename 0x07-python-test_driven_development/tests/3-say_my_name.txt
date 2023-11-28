@@ -1,0 +1,44 @@
+The say_my_name function
+========================
+
+Using say_my_name
+_________________
+
+Import function:
+        >>> say_my_name = __import__('3-say_my_name').say_my_name
+
+Basic test:
+        >>> say_my_name("James", "Bond")
+        My name is James Bond
+
+Case no args:
+        >>> say_my_name()
+        Traceback (most recent call last):
+        ...
+        TypeError: say_my_name() missing 1 required positional argument: 'first_name'
+
+Case first name is not string:
+        >>> say_my_name(1)
+        Traceback (most recent call last):
+        ...
+        TypeError: first_name must be a string
+
+Case first_name is not string:
+        >>> say_my_name(4, "Bond")
+        Traceback (most recent call last):
+        ...
+        TypeError: first_name must be a string
+
+Case last_name is not string:
+        >>> say_my_name("James", 4)
+        Traceback (most recent call last):
+        ...
+        TypeError: last_name must be a string
+
+Case one arg:
+        >>> say_my_name("James")
+        My name is James 
+
+Case empty string:
+        >>> say_my_name("")
+        My name is  
