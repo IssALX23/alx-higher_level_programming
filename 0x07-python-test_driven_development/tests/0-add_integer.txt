@@ -1,0 +1,40 @@
+The "add_integer" function
+==========================
+
+Using "add_integer"
+-------------------
+
+Import function:
+	>>> add_integer = __import__('0-add_integer').add_integer
+
+a is int and b is int:
+	>>> add_integer(5, 6)
+	11
+
+a is int and b is float:
+	>>> add_integer(5, 6.2)
+	11
+
+a is float and b is float:
+	>>> add_integer(5.2, 6)
+	11
+
+a is float and b is float:
+	>>> add_integer(5.2, 6.2)
+	11
+
+a and b not int or float:
+	>>> add_integer("alx", "-")
+	Traceback (most recent call last):
+	...
+	TypeError: a must be an integer
+
+no arguments:
+	>>> add_integer()
+	Traceback (most recent call last):
+	...
+	TypeError: add_integer() missing 1 required positional argument: 'a'
+
+one argument:
+	>>> add_integer(8)
+	106
